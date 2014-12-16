@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'futura_ltbook';
+    src: url('fonts/futuralt-book-webfont.eot');
+    src: url('fonts/futuralt-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/futuralt-book-webfont.woff2') format('woff2'),
+         url('fonts/futuralt-book-webfont.woff') format('woff'),
+         url('fonts/futuralt-book-webfont.ttf') format('truetype'),
+         url('fonts/futuralt-book-webfont.svg#futura_ltbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
