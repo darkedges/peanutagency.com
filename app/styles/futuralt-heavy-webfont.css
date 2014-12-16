@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'futura_ltheavy';
+    src: url('fonts/futuralt-heavy-webfont.eot');
+    src: url('fonts/futuralt-heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/futuralt-heavy-webfont.woff2') format('woff2'),
+         url('fonts/futuralt-heavy-webfont.woff') format('woff'),
+         url('fonts/futuralt-heavy-webfont.ttf') format('truetype'),
+         url('fonts/futuralt-heavy-webfont.svg#futura_ltheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
